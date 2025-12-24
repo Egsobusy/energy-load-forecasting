@@ -1,0 +1,28 @@
+# Core Dependencies
+streamlit==1.52.1
+pandas==2.3.3
+numpy==2.3.5
+
+# Visualization
+plotly==6.5.0
+matplotlib==3.10.8
+seaborn
+
+# Machine Learning
+scikit-learn==1.8.0
+xgboost
+lightgbm
+catboost
+
+# Time Series
+prophet
+statsmodels
+
+# Data Processing
+holidays
+joblib
+
+# Utilities
+scipy
+python-dateutil
+tensorflow
